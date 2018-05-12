@@ -1,0 +1,26 @@
+_repo: Frank-H.-Nelson-of-Cincinnati_26980
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Herrick, Warren Crocker
+    birthdate: 1898
+    gutenberg_agent_id: '32385'
+    url: http://www.gutenberg.org/2009/agents/32385
+description: ''
+gutenberg_issued: '2008-10-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26980'
+  lccn: '46012025'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Nelson, Frank Howard, 1869-1939'
+title: Frank H. Nelson of Cincinnati
+url: http://www.gutenberg.org/ebooks/26980
